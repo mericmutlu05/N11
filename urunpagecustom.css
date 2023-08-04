@@ -1,0 +1,36 @@
+.xcx{
+	color: #9E9FA5;
+	text-decoration: none;
+	font-size: 12px;
+}
+.xcv{
+	margin-left: 10px;
+}
+.product-rating {
+  color: #f9c73d; /* Change this color to your desired star color */
+}
+
+/* Replace .fa with the appropriate class name if using a different icon library */
+.product-rating span {
+  font-size: 18px; /* Adjust the font size as needed */
+  margin-right: 5px; /* Adjust the spacing between stars */
+}
+.xcvb{
+	color: #5d3ebc!important;
+}
+.cnbv{
+	margin-left: 10px;
+}
+.xcxc{
+	color: #5d3ebc;
+	margin-left: 60px;
+	}
+
+.uptop{
+	font-size: 40px;
+}
+.xxcv{
+	background: #5d3ebc;
+	border-radius: 7px;
+	
+}
